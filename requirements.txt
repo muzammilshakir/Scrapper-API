@@ -1,0 +1,11 @@
+keras~=2.4.3
+audioread~=2.1.9
+librosa==0.8.0
+numpy==1.18.5
+scikit-learn~=0.23.2
+flask~=1.1.2
+gunicorn~=20.0.4
+tensorflow~=2.3.1
+h5py==2.10.0
+soundfile~=0.10.3.post1
+
